@@ -1,4 +1,4 @@
-# ❤️ Heart Failure Prediction using R & Machine Learning
+## ❤️ Heart Failure Prediction using R & Machine Learning
 
 ## 📌 Overview
 This project leverages R and Machine Learning techniques to predict heart failure risk using clinical and demographic patient data, aiming to support early diagnosis and reduce hospital readmissions.
